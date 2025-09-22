@@ -1,4 +1,4 @@
-name: 11- Working with inputs
+name: 12- Working with inputs
 
 on:
   workflow_dispatch:
